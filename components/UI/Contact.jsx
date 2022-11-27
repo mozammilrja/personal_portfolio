@@ -44,13 +44,13 @@ const Contact = () => {
               <Link href="#">
                 <i className="ri-youtube-line"></i>
               </Link>
-              <a className="mailto" href="https://github.com/mozammilrja" target="_blank">
+              <a className="mailto" href="https://github.com/mozammilrja" target="_blank" rel="noreferrer" >
                 <i className="ri-github-line"></i>
               </a>
               <Link href="#">
                 <i className="ri-facebook-line"></i>
               </Link>
-              <a className="mailto" href="https://www.linkedin.com/in/mozammil-raja/" target="_blank">
+              <a className="mailto" href="https://www.linkedin.com/in/mozammil-raja/" target="_blank" rel="noreferrer" >
                 <i className="ri-linkedin-line"></i>
               </a>
               <Link href="#">

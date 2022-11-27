@@ -28,7 +28,7 @@ const Hero = () => {
                 </button>
 
                 <button className="secondary__btn">
-                  <a href="https://drive.google.com/file/d/1FQ46uRvW5zqAWt32h2InU3WRvLRQj9Hu/view?usp=sharing" target="_blank">Download CV</a>
+                  <a href="https://drive.google.com/file/d/1FQ46uRvW5zqAWt32h2InU3WRvLRQj9Hu/view?usp=sharing" target="_blank" rel="noreferrer">Download CV</a>
                 </button>
               </div>
             </div>
