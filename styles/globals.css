@@ -6,6 +6,52 @@ body {
   margin: 0;
   font-family: "Quicksand", sans-serif;
   scroll-behavior: smooth;
+  
+}
+
+
+
+
+.swal2-title {
+  position: relative;
+  max-width: 100%;
+  margin: 0;
+  padding: 0.8em 1em 0;
+  color: inherit;
+  font-size: 25px !important;
+  font-weight: 600;
+  text-align: center;
+  text-transform: none;
+  word-wrap: break-word;
+  background: transparent;
+  color: #ffffff !important;
+}
+
+.swal2-styled.swal2-confirm:focus {
+  box-shadow: 0 0 0 0px rgb(112 102 224 / 50%) !important;
+}
+
+.swal2-container.swal2-center>.swal2-popup {
+  grid-column: 2;
+  grid-row: 2;
+  align-self: center;
+  background: #01d293;
+  justify-self: center;
+}
+
+span.loadin-button {
+  background: transparent !important;
+  padding: 0 10px;
+}
+
+.swal2-styled.swal2-confirm {
+  border: 0;
+  border-radius: 65px !important;
+  background: initial;
+  background-color: transparent !important;
+  color: #fff;
+  padding: 0px 40px;
+  font-size: 1em;
 }
 
 a {
