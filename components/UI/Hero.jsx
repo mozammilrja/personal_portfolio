@@ -19,7 +19,7 @@ const Hero = () => {
               <h5 className="mb-4">Frontend Developer</h5>
               <p>
                 Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                Impedit rem sint ipsa cumque. Atque rem vel iusto impedit omnis
+                Impedit rem sint  cumque. Atque rem vel iusto impedit omnis
                 quos!
               </p>
               <div className="mt-5">
