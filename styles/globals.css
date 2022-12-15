@@ -93,7 +93,7 @@ section {
 footer {
   padding-bottom: 10px;
   padding-top: 60px;
-  border-top: 1px solid #171f38;
+  /* border-top: 1px solid #171f38; */
 }
 
 .primary__btn {

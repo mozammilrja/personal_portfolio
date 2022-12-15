@@ -36,7 +36,7 @@ const Footer = () => {
       <Container>
         <Row>
           {/* ========= footer top =========== */}
-          <Col lg="6" className={`${classes.footer__top}`}>
+          {/* <Col lg="6" className={`${classes.footer__top}`}>
             <div className={`${classes.nav__menu}`}>
               {NAV__LINK.map((item, index) => (
                 <Link href={item.path} key={index}>
@@ -50,7 +50,7 @@ const Footer = () => {
             <div className={`${classes.footer__creator}`}>
               <h6>Created by Mozammil</h6>
             </div>
-          </Col>
+          </Col> */}
 
           {/* ========= footer bottom ========= */}
           <Col lg="12">

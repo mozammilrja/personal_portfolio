@@ -12,15 +12,14 @@ const Services = () => {
           <Col lg="6" md="6">
             <div className={`${classes.services__container}`}>
               <div>
-                <ServicesItem title="App Development" icon="ri-apps-line" />
+                {/* <ServicesItem title="App Development" icon="ri-apps-line" /> */}
+                <ServicesItem
+                  title="Full-Stack Development"
+                  icon="ri-code-s-slash-line"
+                />
 
                 <ServicesItem title="Web Development" icon="ri-computer-line" />
               </div>
-
-              <ServicesItem
-                title="Full-Stack Development"
-                icon="ri-code-s-slash-line"
-              />
             </div>
           </Col>
 
@@ -29,11 +28,7 @@ const Services = () => {
             <h3 className="mb-0 mt-4">Better Design,</h3>
             <h3 className="mb-4">Better Experience</h3>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non amet
-              culpa nobis corporis officiis, numquam cupiditate, enim expedita
-              eveniet dolorum, aliquid nesciunt sapiente illo voluptatum!
-              Dolores fuga mollitia atque, placeat minima quibusdam accusantium!
-              Veniam, non distinctio dolorem rerum laboriosam deleniti.
+              Full stack developer  Strong integration with intuitive problem-solving skills. Proficient in Reactjs, Redux, NextJs JavaScript. Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions.
             </p>
           </Col>
         </Row>
