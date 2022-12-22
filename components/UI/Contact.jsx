@@ -53,11 +53,12 @@ const Contact = () => {
               <a className="mailto" href="https://www.linkedin.com/in/mozammil-raja/" target="_blank" rel="noreferrer" >
                 <i className="ri-linkedin-line"></i>
               </a>
-              <Link href="#">
+              <a className="mailto" href="https://www.instagram.com/mozammil_khann/" target="_blank" rel="noreferrer">
                 <i className="ri-instagram-line"></i>
-              </Link>
+              </a>
             </div>
           </Col>
+          {/* { https://www.instagram.com/mozammil_khann/ } */}
 
           <Col lg="6" md="6">
             <Form />

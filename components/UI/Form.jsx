@@ -7,9 +7,9 @@ import emailjs from 'emailjs-com';
 
 const Form = () => {
 
-  const SERVICE_ID = "service_wc2oq0m"
-  const TEMPLATE_ID = "template_91rdw04";
-  const USER_ID = "LnfHIMY3JdphyZVux";
+  const SERVICE_ID = "service_y8rt8pq"
+  const TEMPLATE_ID = "template_drnh9vj";
+  const USER_ID = "ghV9RutjAdIVmGXkJ";
   const [isLoading, setIsLoading] = useState(false);
 
   const submitHandler = (e) => {
