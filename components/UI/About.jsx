@@ -64,13 +64,13 @@ const About = () => {
                   </div>
                 </div>
 
-                <div className="mt-5" style={{display:"flex",justifyContent:"center"}}>
+                <div className="mt-5" style={{ display: "flex", justifyContent: "center" }}>
                   <button className="primary__btn">
                     <Link href="#portfolio">My Portfolio</Link>
                   </button>
 
                   {/* <button className="secondary__btn">
-                    <a href="https://drive.google.com/file/d/1FQ46uRvW5zqAWt32h2InU3WRvLRQj9Hu/view?usp=sharing" target="_blank" rel="noreferrer">Download CV</a>
+                    <a href="https://drive.google.com/file/d/1pZpD3BEI28BhNFv9jZA9um_Gwy8ke7IF/view" target="_blank" rel="noreferrer">Download CV</a>
                   </button> */}
                 </div>
                 {/* <div
