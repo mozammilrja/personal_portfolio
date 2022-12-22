@@ -74,7 +74,7 @@ const portfolio = [
   {
     id: "09",
     title: "AlertBytes",
-    img: "/images/alartbytes.png",
+    img: "/images/alertbytes.png",
     category: "Websites",
     keyword: ["Website", "UI-Design", "API Integration"],
     liveUrl: "https://www.alertbytes.app/",
