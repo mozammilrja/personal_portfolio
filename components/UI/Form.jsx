@@ -36,13 +36,13 @@ const Form = () => {
   return (
     <form className={`${classes.form}`} onSubmit={submitHandler}>
       <div className={`${classes.form__group}`}>
-        <input type="text" placeholder="Your Name" required name='user_name'/>
+        <input type="text" placeholder="Your Name" required name='name'/>
       </div>
       <div className={`${classes.form__group}`}>
-        <input type="email" placeholder="Email Address" required name='user_email' />
+        <input type="email" placeholder="Email Address" required name='email' />
       </div>
       <div className={`${classes.form__group}`}>
-        <textarea type="text" rows={5} placeholder="Message" required name='user_message'/>
+        <textarea type="text" rows={5} placeholder="Message" required name='message'/>
       </div>
       <button className="primary__btn" type="submit">
         {!isLoading ? "Send" : <> <Spinner size="sm">
