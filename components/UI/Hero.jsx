@@ -16,10 +16,9 @@ const Hero = () => {
             <div className={`${classes.hero__content}`}>
               <SectionSubtitle subtitle="Hello" />
               <h2 className="mt-3 mb-3">I&apos;m Mozammil Raja</h2>
-              <h5 className="mb-4">Full Stack Developer</h5>
+              <h5 className="mb-4">Frontend Developer</h5>
               <p>
-                Be in a position where I can use my communication skills as well as my problem-solving abilities to tackle challenges and empower as well as help others to solve their problems.
-              </p>
+I am extremely proficient in Front-End Development using HTML5, Cascade Style Sheets (CSS3), Bootstrap, MaterialUI,Tailwindcss, Advance Javascript, React.Js & NextJS And apart from Front-End, I have good knowledge in Back-End using Node,Express & MongoDB and continuously engage in trying to extend my skills with new technology.              </p>
               <div className="mt-5">
                 <button className="primary__btn">
                   <Link href="#">Hire me</Link>
