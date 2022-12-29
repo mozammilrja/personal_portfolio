@@ -21,12 +21,12 @@ const Hero = () => {
 I am extremely proficient in Front-End Development using HTML5, Cascade Style Sheets (CSS3), Bootstrap, MaterialUI,Tailwindcss, Advance Javascript, React.Js & NextJS And apart from Front-End, I have good knowledge in Back-End using Node,Express & MongoDB and continuously engage in trying to extend my skills with new technology.              </p>
               <div className="mt-5">
                 <button className="primary__btn">
-                  <Link href="#">Hire me</Link>
+                  <a href="https://drive.google.com/file/d/1EJ2R1GVRhQQoQNsETDtYMeL44z8It5gh/view?usp=sharing" target="_blank" rel="noreferrer">Download CV</a>
                 </button>
 
-                <button className="secondary__btn">
+                {/* <button className="secondary__btn">
                   <a href="https://drive.google.com/file/d/1pZpD3BEI28BhNFv9jZA9um_Gwy8ke7IF/view" target="_blank" rel="noreferrer">Download CV</a>
-                </button>
+                </button> */}
               </div>
             </div>
           </Col>
